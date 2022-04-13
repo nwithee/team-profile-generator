@@ -28,7 +28,7 @@
   NA
 
   ## Demo Video
-  https://github.com/nwithee/readme-generator/blob/main/Develop/utils/readme_generator_demo.mov
+  https://github.com/nwithee/team-profile-generator/blob/main/Assets/screencapture.mov
   
   ## Questions?
   You can find all of my projects at https://github.com/nwithee
